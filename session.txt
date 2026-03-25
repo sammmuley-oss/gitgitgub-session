@@ -4,5 +4,5 @@ CLG : Dr. DY patil sarthak
 Git-GitHub session : 
 1. git add .  : to add all files on all repo
 2. git add <filename> : to add particular file on repo
-3. git commit "message"  : to add commitment abt what changes are done in repo files
+3. git commit -m"message"  : to add commitment abt what changes are done in repo files
 4. git push  : to push changed files on github 
